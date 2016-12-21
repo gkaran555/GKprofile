@@ -214,11 +214,13 @@ a:after {
 	float: left;
 	display: inline-block;
 	vertical-align: middle; 
-	text-align: left;
+	text-align: center;
 	width: 25px;
-	font-size: 14px;
+	font-size: 20px;
 	line-height: 40px;
 	margin: 25px 2px;
+	background: red;
+	color: white;
 }
 
 .menu-close {
