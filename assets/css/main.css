@@ -310,5 +310,22 @@ a:after {
 		
 }
 
+.galerija { 
+    width: 200px;
+    display: inline-block;
+    
+}
 
-
+.galerija>img { 
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+  
+}
+	
+@media only screen and (max-width: 400px) {
+    .galerija { 
+	    width: 100%;
+	    height: 100%;
+    }
+}
