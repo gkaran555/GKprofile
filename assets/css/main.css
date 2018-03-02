@@ -132,7 +132,7 @@ a:after {
 
 #f i {
 	font-size: 8px;
-	color: #fff;
+	color: black;
     padding: 3px;
 }
 
@@ -330,5 +330,3 @@ a:after {
 	    height: 100%;
     }
 }
-
-

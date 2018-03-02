@@ -1,2 +1,2 @@
-This is a profile page site made with Bootstap. 
+Site made with Vue.js and Github Api
 
