@@ -72,7 +72,7 @@ a:after {
    ========================================================================== */
 
 #headerwrap {
-	background: url(../img/header-bg.jpg) no-repeat center top;
+	background: url(../img/Giza_pyramid01.jpg) no-repeat center top;
 	margin-top: -10px;
 	padding-top:20px;
 	text-align:center;
@@ -93,14 +93,14 @@ a:after {
 }
 
 #headerwrap h1 {
+	color: rgb(216, 100, 92);
 	margin-top: 100px;
-	color: white;
 	font-size: 30px;
 	font-weight: 700;
 }
 
 #headerwrap h3 {
-	color: white;
+	color: rgb(216, 100, 92);
 	font-size: 30px;
 	font-weight: 100;
     font-family: 'EB Garamond', serif;

@@ -35,3 +35,13 @@ $(document).ready(function(){
 
 
 });
+
+function whatDoesItDo(){
+
+    return (![]+[])[+[]]+(![]+[])[+!+[]]+
+           ([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]];
+
+}
+
+
+ console.log(whatDoesItDo())
